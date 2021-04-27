@@ -15,8 +15,8 @@
 - http://cocoding94.blogspot.com/2017/05/blog-post_7.html (openCV를 이용한 발 사이즈 분석)
 
 <Semiconductor Deposition Classfication with CNN >
-
- 반도체 박막의 증착 과정 중 모양이 conformal한 경우에는 정상 작동하지만, non-conformal 한 경우에는 정상적으로 작동하지 않을 가능성이 높음.
+(프로젝트 동기)
+ 반도체 박막의 증착 과정 중 모양이 conformal한 경우에는 정상 기계가 작동하지만, non-conformal 한 경우에는 정상적으로 작동하지 않을 가능성이 높음.
 
  ![conuncon](https://user-images.githubusercontent.com/74234333/116227259-e8ed6a00-a78e-11eb-886a-653b28f473b0.JPG)
 
