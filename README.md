@@ -7,7 +7,11 @@ predicting semiconductor coating statement with CNN
  반도체 박막의 증착 과정 중 모양이 conformal한 경우에는 정상 작동하지만, non-conformal 한 경우에는 정상적으로 작동하지 않을 가능성이 높음.
  보통 초음파 센서를 사용하여 이를 판별해내지만, 초음파 센서의 경우 외부의 개입으로 인하여 결과가 불확실해질 가능성이 있기 때문에
  CNN을 이용한 이미지 센서를 제작하고자 함.
- 
+ ![conuncon](https://user-images.githubusercontent.com/74234333/116227259-e8ed6a00-a78e-11eb-886a-653b28f473b0.JPG)
+
+(a) conformal (b) non-conformal
+(이미지 출처 : https://www.researchgate.net/figure/a-Conformal-deposition-b-Nonconformal-deposition_fig7_35492417)
+
 (원리 및 방법)
 
  CNN을 이용하여 conformal한 이미지와 non-conformal한 이미지를 구분하여 binary로 학습을 시킴.
