@@ -9,7 +9,10 @@
 - ImageGenerator를 이용하여 이미지의 양을 늘리는 부분
 - python 코드와 아두이노를 연동하는 부분
 
-소스 코드의 경우, 오픈소스를 참고하였습니다.
+소스 코드의 경우, 아래 소스를 참고하였습니다.
+(참고한 소스)
+- https://lsjsj92.tistory.com/357 (Keras를 이용한 개,고양이 분류)
+- http://cocoding94.blogspot.com/2017/05/blog-post_7.html (openCV를 이용한 발 사이즈 분석)
 
 <Semiconductor Deposition Classfication with CNN >
 
