@@ -14,7 +14,8 @@
 - https://lsjsj92.tistory.com/357 (Keras를 이용한 개,고양이 분류)
 - http://cocoding94.blogspot.com/2017/05/blog-post_7.html (openCV를 이용한 발 사이즈 분석)
 
-<Semiconductor Deposition Classfication with CNN >
+Semiconductor Deposition Classfication with CNN
+ 
  * 첨부된 소스의 이미지 파일의 경로와 파일의 디렉토리 이름이 달라졌기 때문에, 그대로 코드를 작동할 경우 코드가 작동되지 않습니다.
 
 
@@ -39,7 +40,8 @@
  - 따라서, 차선책으로 unconformal한 cell의 모양과 conformal한 cell의 모양을 직접 그려서 사용하려고 하였으나,
 이미지를 pixel단위로 처리하는 CNN의 특성 상 유의미한 결과를 만들어내지 못하였음.
 
-<Mesuring Volt's Length with OpenCV>
+Mesuring Volt's Length with OpenCV
+
 (프로젝트 동기)
  산업 현장에서 기체를 보관할 경우, 기체의 압력이 열에 따라 증가하는 폭이 크기 때문에 나사가 풀려서 사고가 일어나는 일이 많다고 합니다.
  보통 초음파 센서를 사용하여 이를 판별해내지만, 초음파 센서의 경우 외부의 개입으로 인하여 결과가 불확실해질 가능성이 있기 때문에
